@@ -1,4 +1,4 @@
-class ZebraController < ApplicationController 
+class DiceController < ApplicationController 
   
   def two6 
     
